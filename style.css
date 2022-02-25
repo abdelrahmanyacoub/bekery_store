@@ -1,0 +1,12 @@
+.backing{
+    text-align: center;
+}
+
+.item{
+width: 33%;
+display: inline-block;
+}
+
+.item img{
+    width: 70%;
+}
